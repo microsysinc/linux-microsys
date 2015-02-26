@@ -1,0 +1,13 @@
+Linux Kernel for Micro/sys Products
+===================================
+
+This is the main repository for Micro/sys customizations
+to the Linux kernel.  Branches are maintained for each
+of the required products.  The following list shows the
+latest version infomation.
+
+Product      Base Kernel Version
+-------      -------------------
+
+SBC4661      3.0.35
+SBC1652      2.6.35.3
